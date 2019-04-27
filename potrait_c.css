@@ -1,0 +1,36 @@
+table td{
+width: 30%;
+border-top: 1px solid #ddd;
+padding-left: 40px;
+
+}
+table tr{
+height:40px;
+}
+
+table{
+width:100%;
+}
+
+.collapsible {
+  
+  width: 100%;
+  border: none;
+  text-align: left;
+  background-color: #f1f1f1;
+  margin-bottom: 2px;
+  
+  
+}
+
+.content {
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+  width: 100%;
+}
+
+.glyphicon-pencil {
+ display: none;
+ padding-right: 50px;
+}
